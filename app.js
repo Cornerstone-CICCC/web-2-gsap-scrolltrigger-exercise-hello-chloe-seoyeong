@@ -43,7 +43,7 @@ const threeLineTimeline = gsap.timeline({
     start: 'top top',
     pin: true,
     scrub: true,
-    markers: true
+    // markers: true
   }
 });
 
